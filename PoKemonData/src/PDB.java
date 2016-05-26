@@ -33,7 +33,7 @@ public class PDB {
             	}
             }
 
-            System.out.print("‰½”Ô–Ú‚Ìƒ|ƒPƒ‚ƒ“‚Ìƒf[ƒ^‚ğ•\¦H:");
+            System.out.print("ä½•ç•ªç›®ã®ãƒã‚±ãƒ¢ãƒ³ã®ãƒ‡ãƒ¼ã‚¿ã‚’è¡¨ç¤ºï¼Ÿ:(1 ~ 649)");
             int z = sc.nextInt();
             for(int i = 1;i <=9;i++){
             	System.out.print(data[0][i] + "\t" + data[z][i] + "\n");
